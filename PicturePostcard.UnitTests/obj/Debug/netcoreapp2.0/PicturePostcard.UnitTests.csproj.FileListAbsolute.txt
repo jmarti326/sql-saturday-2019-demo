@@ -1,0 +1,16 @@
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/PicturePostcard.UnitTests.deps.json
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/PicturePostcard.UnitTests.runtimeconfig.json
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/PicturePostcard.UnitTests.runtimeconfig.dev.json
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/PicturePostcard.UnitTests.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/PicturePostcard.UnitTests.pdb
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/PicturePostcard.Shared.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/bin/Debug/netcoreapp2.0/PicturePostcard.Shared.pdb
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/obj/Debug/netcoreapp2.0/PicturePostcard.UnitTests.csprojAssemblyReference.cache
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/obj/Debug/netcoreapp2.0/PicturePostcard.UnitTests.AssemblyInfoInputs.cache
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/obj/Debug/netcoreapp2.0/PicturePostcard.UnitTests.AssemblyInfo.cs
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/obj/Debug/netcoreapp2.0/PicturePostcard.UnitTests.csproj.CopyComplete
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/obj/Debug/netcoreapp2.0/PicturePostcard.UnitTests.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard.UnitTests/obj/Debug/netcoreapp2.0/PicturePostcard.UnitTests.pdb

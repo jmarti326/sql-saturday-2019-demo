@@ -1,0 +1,8 @@
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/bin/Debug/netstandard2.0/PicturePostcard.Shared.deps.json
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/bin/Debug/netstandard2.0/PicturePostcard.Shared.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/bin/Debug/netstandard2.0/PicturePostcard.Shared.pdb
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/obj/Debug/netstandard2.0/PicturePostcard.Shared.csprojAssemblyReference.cache
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/obj/Debug/netstandard2.0/PicturePostcard.Shared.AssemblyInfoInputs.cache
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/obj/Debug/netstandard2.0/PicturePostcard.Shared.AssemblyInfo.cs
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/obj/Debug/netstandard2.0/PicturePostcard.Shared.dll
+/Users/nyx/Projects/PicturePostcard/PicturePostcard/PicturePostcard.Shared/obj/Debug/netstandard2.0/PicturePostcard.Shared.pdb
